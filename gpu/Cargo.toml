@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["crates/gpu-core", "crates/gpu-runtime", "examples/buffer-demo"]

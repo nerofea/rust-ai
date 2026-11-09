@@ -1,0 +1,6 @@
+[package]
+name = "rust-ai-gpu-runtime"
+version = "0.1.0"
+edition = "2021"
+[dependencies]
+rust-ai-gpu-core = { path = "../gpu-core" }
